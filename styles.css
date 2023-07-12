@@ -1,0 +1,14 @@
+.body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("https://image.winudf.com/v2/image1/Y29tLnRyYWZpY2FwcHN0LkZMT1dFUlNXQUxMUEFQRVJIRF9zY3JlZW5fMF8xNTU3MTU5NjgxXzA5Ng/screen-0.webp?fakeurl=1&type=.webp");
+}
+.box{
+    border:8px solid black;
+    padding:80px;
+    width:220px;
+    height:480px;
+    border-radius: 80px;
+    background-color:aqua;
+}
